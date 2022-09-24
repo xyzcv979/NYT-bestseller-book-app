@@ -1,2 +1,4 @@
 # NYT-book-list
-Starter code for AND102 Lab 3
+App that pulls bestseller books data from New York Times API and display via RecyclerView
+
+[!]("https://github.com/xyzcv979/NYT-bestseller-book-app/blob/main/appDemo.gif")
